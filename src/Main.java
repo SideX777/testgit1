@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Second commit");
         System.out.println("Next commit");
         System.out.println("Last commit");
-        System.out.println("Master");
+        System.out.println("Master&Branch2");
     }
 }
