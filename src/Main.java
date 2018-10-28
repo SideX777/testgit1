@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Last commit");
         System.out.println("Master&Branch2");
         System.out.println("Diff");
+        System.out.println("Amend");
     }
 }
